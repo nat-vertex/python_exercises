@@ -2,5 +2,8 @@
 
 https://stepik.org/course/116336/info
 
-property.py - 2.2 Свойства property. Декоратор @property. 8
-servers.py - 1.8 Испытание свойствами и методами
+<h3> property.py </h3>
+2.2 Свойства property. Декоратор @property. 8
+
+<h3>servers.py </h3>
+1.8 Испытание свойствами и методами
